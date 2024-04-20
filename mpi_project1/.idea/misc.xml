@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable/dialogbkg.xml" value="0.10092592592592593" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable/nav_logout.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable/nav_settings.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable/rounded_button.xml" value="0.1734375" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/drawable/search.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_accueil.xml" value="0.1" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_add.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_chat.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_details.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_give_email.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_menu.xml" value="0.16" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/activity_signup.xml" value="0.2" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/bottomsheetapp.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/bottomsheetlayout.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/edit_product.xml" value="0.19375" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_clubs.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_delivre.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_delivre2.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_gaming.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_home.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_home2.xml" value="0.264" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_immob.xml" value="0.1265625" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_panier.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_pnier.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_profile.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_services.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_social.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_store.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/fragment_tech.xml" value="0.2" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/item_delivre.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/item_image.xml" value="0.1" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/item_mystore.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/item_panier.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/item_profile.xml" value="0.25181159420289856" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/itemproduct.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/nav_header.xml" value="0.3413793103448276" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/layout/transparent_background.xml" value="0.1" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/menu/bottom_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/menu/nav_header.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/menu/spartner_search.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Ala/AndroidStudioProjects/mpi_project1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20555555555555555" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

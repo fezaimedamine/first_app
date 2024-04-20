@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment"
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_marginTop="40dp"
+            android:background="#FFF"
+            android:layout_height="90dp"
+            >
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/img13"
+    android:background="@drawable/img13"
+    android:layout_marginLeft="6dp"
+    android:layout_marginRight="6dp"
+    />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="160dp"
+                android:orientation="vertical">
+                <ImageButton
+
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img7"
+
+                    />
+                <TextView
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:text="Technology"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img8"/>
+                <TextView
+                    android:id="@+id/immoblier"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:text="Real Estate"/>
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="160dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img9"
+
+                    />
+                <TextView
+                    android:id="@+id/gaming"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:text="Gaming"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img10"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:id="@+id/club"
+                    android:text="clubs"/>
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="160dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img11"
+
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:id="@+id/social_assistance"
+                    android:text="Social Assistance"/>
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="190dp"
+                android:layout_height="160dp"
+                android:layout_marginLeft="15dp"
+                android:orientation="vertical">
+                <ImageButton
+                    android:id="@+id/tech"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:background="@drawable/img12"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:textSize="15dp"
+                    android:gravity="center"
+                    android:background="#D35400"
+                    android:textColor="#000"
+                    android:textStyle="bold"
+                    android:id="@+id/services"
+                    android:text="Services "/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            >
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

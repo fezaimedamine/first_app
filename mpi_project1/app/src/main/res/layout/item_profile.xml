@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="6dp"
+    android:maxHeight="60dp"
+    android:minHeight="40dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:background="#FFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profilechat_img1"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="0dp"
+            android:src="@mipmap/ic_launcher"
+            app:civ_border_color="#0C468C"
+            app:civ_border_width="2dp" />
+
+        <TextView
+            android:id="@+id/profilenametext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/profilechat_img1"
+            android:text="name delivery company "
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/profilefnametext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/profilenametext"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/profilechat_img1"
+            android:text="price "
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/profilestateimg"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_below="@+id/profilechat_img1"
+            android:layout_marginLeft="50dp"
+            android:text="name delivery company "
+            android:textColor="#000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

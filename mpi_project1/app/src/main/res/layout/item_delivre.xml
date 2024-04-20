@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:background="#C4BBD1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/jimg1"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="0dp"
+            android:src="@mipmap/ic_launcher"
+            app:civ_border_color="#0C468C"
+            app:civ_border_width="2dp" />
+        <TextView
+            android:id="@+id/jnametext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/jimg1"
+            android:layout_marginLeft="10dp"
+            android:text="name delivery company "
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/jemailtext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/jimg1"
+            android:layout_below="@+id/jnametext"
+            android:text="email "
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/jregiontext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/jimg1"
+            android:layout_below="@+id/jemailtext"
+            android:text=" region name"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_below="@+id/jregiontext"
+            android:layout_toRightOf="@+id/jimg1"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:text="More info"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:backgroundTint="#EAE423"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/jbtninfo"/>
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
